@@ -1,1 +1,1 @@
-print(‘Hello SWASTIK SINGH :D’)
+print(‘Hello world :D’)
